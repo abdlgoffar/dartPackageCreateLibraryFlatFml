@@ -1,0 +1,5 @@
+//struktur project adalah bagian dari file-file configurasi bawaan dari sebuah bahasa pemrograman itu sendiri
+//dan aturan-aturan penulisan code pada sebuah path/folder.
+
+//untuk file configurasi pada dart package tersedia pada file yang bernama 'pubspec.yaml'
+//untuk path/folder standard aturan penulisan code pada dart package tersedia pada folder 'lib'

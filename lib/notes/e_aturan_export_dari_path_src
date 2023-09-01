@@ -1,0 +1,6 @@
+//karena pada folder/path 'src' adalah path khusus penulisan kode library/app, maka standard nya tidak disarankan
+//apabila langsung export code dari path/folder 'src'.
+//untuk mengatasi hal itu disaranran membuat path/file yang sejajar dengan path 'src' yang fungsinya sebagai penghubung
+//apabila ingin menggunakan code pada code file dalam path 'src'.
+
+//untuk mengetahui contoh file penghubung seperti yang sudah dibahas diatas dan cara export code dari path 'src' lihat di file require.dart

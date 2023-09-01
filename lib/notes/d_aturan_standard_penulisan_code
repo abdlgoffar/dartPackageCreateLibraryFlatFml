@@ -1,0 +1,5 @@
+//ketika kita ingin membuat library atau code yang nantinya akan di upload di githun dan di open source kan
+//terdapat aturan-aturan standard yang harus diikuti:
+//1. code wajib dibuat/ditulis pada path/folder 'lib.src'
+//2. tidak boleh melakukan import langsung code yang terdapat di path/folder 'lib.src' ketika terdapat
+     kebutuhan meng import code dari path/folder lain.
